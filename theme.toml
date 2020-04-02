@@ -1,0 +1,18 @@
+name = "theme"
+description = "Documentation theme for Hugo, based on Grav Learn theme"
+tags = ["documentation", "grav", "learn", "doc", "search"]
+features = ["documentation", "menu", "nested sections", "search", "mermaid"]
+min_version = 0.58
+
+[fork]
+  name = "Xaver Pummer"
+  homepage = "https://github.com/Nightshadelink"
+
+[author]
+  name = "Mathieu Cornic"
+  homepage = "https://matcornic.github.io/"
+
+[original]
+  name = "Grav Learn"
+  homepage = "https://learn.getgrav.org/"
+  repo = "https://github.com/getgrav/grav-learn"
